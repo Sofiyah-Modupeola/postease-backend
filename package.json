@@ -1,0 +1,9 @@
+{
+  "name": "postease-multi-tenant",
+  "version": "2.0.0",
+  "description": "Multi-user SaaS backend - one backend serves many vendors, OAuth one-click",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "node-fetch": "^3.3.2"
+  }
+}
